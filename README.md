@@ -18,7 +18,7 @@ Fear not! I'll leave references to whatever I used to make this 😉
 
 # Hey there! 👋 I'm 𝔻𝟛𝔽𝔸𝕌𝟜𝕋
 
-I'm a college student and developer from India, passionate about coding, exploring new technologies and creating efficient, scalable solutions! I started my journey with **[NodeJS](https://nodejs.org/)** and **[TypeScript](https://www.typescriptlang.org/)**, and right now I'm delving into **[Python](https://python.org)** and **[Bun](https://bun.sh/)** to broaden my skillset.
+I'm a college student and developer from India, passionate about coding, exploring new technologies and creating efficient, scalable solutions! I started my journey with **[NodeJS](https://nodejs.org/)** and **[TypeScript](https://www.typescriptlang.org/)**, and right now I'm delving into **[Bun](https://bun.sh/)** and **[Rust](https://www.rust-lang.org/)** to broaden my skillset.
 
 I enjoy building projects that combine my interest in automation and data scraping, with a focus on expanding my skills in Programming through diverse, hands-on experiments.
 
@@ -32,6 +32,7 @@ I enjoy building projects that combine my interest in automation and data scrapi
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://dotnet.microsoft.com)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.programiz.com/c-programming/online-compiler/)
+[![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 
 - **Data formats and Markup Languages**:
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://www.programiz.com/html/online-compiler/)
@@ -46,6 +47,7 @@ I enjoy building projects that combine my interest in automation and data scrapi
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)](https://getbootstrap.com/)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](https://bun.sh/)
+[![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 - **Tools**:
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
@@ -57,9 +59,9 @@ I enjoy building projects that combine my interest in automation and data scrapi
 
 ## 🌱 What I'm Learning:
 I'm always eager to learn more, and right now I'm focused on:
+- **General Scripting with Rust** to enhance my skills and knowledge with the language
 - **C programming** for DSA and making CLI programs
 - **Advanced React** for building complex UIs
-- **General Scripting with Python** to enhance my skills and knowledge with the language
 
 ## 🚀 Major Projects
 ### 🤖 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/)
